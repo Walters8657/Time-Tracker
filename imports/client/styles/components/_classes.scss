@@ -1,0 +1,17 @@
+@import 'variables';
+
+.dropShadow {
+    filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.25))
+}
+
+.redBG {
+    background-color: $red;
+}
+
+.greenBG {
+    background-color: $green;
+}
+
+.tanBG {
+    background-color: $tan;
+}
